@@ -2,6 +2,9 @@
 
 This script exports the TailwindCSS configuration and converts it to a JSON that works with Figma Variables.
 
+https://github.com/mariohamann/tailwindcss-to-figma-variables/assets/26542182/91012f0a-3e0f-40cc-99df-3a0f87da69ec
+
+
 ## Quick Start
 
 ### Step 1: Export from TailwindCSS
