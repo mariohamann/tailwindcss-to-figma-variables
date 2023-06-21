@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-to-figma-variables",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node export.mjs"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "tailwindcss-export-config": "^4.1.0"
+  }
+}
